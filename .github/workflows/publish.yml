@@ -1,10 +1,13 @@
-# Turns a pushed tag vX.Y.Z into a GitHub release from releases/vX.Y.Z/
-# (installer + latest.json). Installed copies of Racing Tools read
-# releases/latest/download/latest.json and update themselves.
+# Publishes every releases/vX.Y.Z/ folder (installer + latest.json) that has
+# no GitHub release yet. Runs when such a folder is pushed to main. Installed
+# copies of Racing Tools read releases/latest/download/latest.json and update
+# themselves.
 name: Publish release
 on:
   push:
-    tags: ["v*"]
+    branches: [main]
+    paths: ["releases/**"]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -12,11 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Create the release
+      - name: Create missing releases (oldest first, newest marked latest)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          dir="releases/${GITHUB_REF_NAME}"
-          test -f "$dir/latest.json"
-          notes=$(python3 -c "import json;print(json.load(open('$dir/latest.json'))['notes'])")
-          gh release create "$GITHUB_REF_NAME" "$dir"/* --title "Racing Tools ${GITHUB_REF_NAME#v}" --notes "$notes" --latest
+          for dir in $(ls -d releases/v*/ | sed 's#/$##' | sort -V); do
+            tag=$(basename "$dir")
+            test -f "$dir/latest.json" || continue
+            if gh release view "$tag" >/dev/null 2>&1; then continue; fi
+            notes=$(python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['notes'])" "$dir/latest.json")
+            gh release create "$tag" "$dir"/* --target "$GITHUB_SHA" --title "Racing Tools ${tag#v}" --notes "$notes" --latest
+          done
