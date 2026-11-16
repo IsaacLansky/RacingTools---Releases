@@ -1,0 +1,11 @@
+{
+  "version": "0.13.1",
+  "notes": "Start-up splash screen that checks for (and installs) updates before sign-in. Plan badges: PRO+ (blue), PRO, FREE, and an ADMIN tag. Discord names without the #0.",
+  "pub_date": "2026-11-16T21:16:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXU4c0k0cUFWVHR3QklBQ1VZTmlTdnVHaytkNWFicUNneTJ1aVV4RlBoR3ZyQS9aLzFlTDVxMmlvS0JBZHEvODUrQXhOQ0YxZzgwN04xVWZ6THhCaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODYzNzg1CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMy4xCjFQRy9DTC9EWGdubEJVV1JJOG9SaDdZREdqN0lrZUFrSjBBbG9ucmlJd0xBN1JNNzlSdVNRTnY5TE8zaDQwUGlJSnJMbU1aMGxkNWRMYmQ5Y1QvNERnPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.13.1/Racing-Tools_0.13.1_x64-setup.exe"
+    }
+  }
+}
