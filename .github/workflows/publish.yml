@@ -1,0 +1,22 @@
+# Turns a pushed tag vX.Y.Z into a GitHub release from releases/vX.Y.Z/
+# (installer + latest.json). Installed copies of Racing Tools read
+# releases/latest/download/latest.json and update themselves.
+name: Publish release
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          dir="releases/${GITHUB_REF_NAME}"
+          test -f "$dir/latest.json"
+          notes=$(python3 -c "import json;print(json.load(open('$dir/latest.json'))['notes'])")
+          gh release create "$GITHUB_REF_NAME" "$dir"/* --title "Racing Tools ${GITHUB_REF_NAME#v}" --notes "$notes" --latest

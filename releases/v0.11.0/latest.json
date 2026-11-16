@@ -1,0 +1,11 @@
+{
+  "version": "0.11.0",
+  "notes": "Racing Tools 0.11.0: renamed from SimTeam, automatic updates, session icon rail (Analysis / Stints), optimal lap, compact stints.",
+  "pub_date": "2026-11-16T00:59:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aWdlenpvN1pIVDBXbVVMRFZLdjdyUDRCWW1VYlVZTHpqOGpEY3hnNVBjT0x5S1lRc25mZTdMemRnNWFQRE9iOE9WbDNJMnhBaS93bERrSXRtUTNIeEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzkwNzMyCWZpbGU6UmFjaW5nIFRvb2xzXzAuMTEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4wCnNrNXA1TjQ5c1VudWNWVCswVnhCL1ZPNDd5ZGVvejJTRjRXVFdvODVDMHdwOUtkSGhiS2xETnVrUEg4SlNFa01BVlZrVGdQZm1DL2M5MXp1NzhUakJRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.11.0/Racing-Tools_0.11.0_x64-setup.exe"
+    }
+  }
+}
