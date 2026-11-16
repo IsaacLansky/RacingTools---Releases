@@ -1,0 +1,11 @@
+{
+  "version": "0.12.0",
+  "notes": "Coach overlay: corner-by-corner feedback from your own laps, with beeps for braking, lift and throttle points (Ctrl+Shift+B mutes them). Inputs graph: ABS shaded yellow on the brake trace. Ctrl+Shift+H hides overlays but keeps the coach beeping.",
+  "pub_date": "2026-11-16T05:16:06Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXU5UCtvV1RsRnBzMWFxRDhteG13WklSdStFMlVWWGhEdmFzcFFGMGVvb1RuSk05U2Q5V3o4Y3lJb1gyejNwVmZ2RzRVQlhhQUI5WlJ2MTIybWZJV0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA2MTYxCWZpbGU6UmFjaW5nIFRvb2xzXzAuMTIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMi4wCmpMWVQvdXNCdGVUNTJEUTMzdDh1eWlIa2lEOHdUVk9aR2NvM1BGcVR6bml3TG9yMGV5L2JWaVhLeXgzdDl2S2dWQTJMNFBST3JlUm4zajZLK01LRUR3PT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.12.0/Racing-Tools_0.12.0_x64-setup.exe"
+    }
+  }
+}
