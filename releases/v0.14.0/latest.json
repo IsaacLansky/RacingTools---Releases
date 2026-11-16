@@ -1,0 +1,11 @@
+{
+  "version": "0.14.0",
+  "notes": "New Engineer tab: a debrief with the time to find per corner, and a setup engineer (your feedback, slides and tyre data, a plan of changes built from iRacing's car manuals and the current setup meta).",
+  "pub_date": "2026-11-16T23:01:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXNiRzUyUXJpVHFYOU91eUZlMDhIQmk2WHczaDdnSWMzU1h1VDRWdlBaSkFKQVBTc1ZHaWN1T2gwMnZZdDQzRjQ4NEU0bkV4Z3hKWlJCOVh2ZEFLcUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODcwMDUxCWZpbGU6UmFjaW5nIFRvb2xzXzAuMTQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNC4wCnpuUGp5ZzBDVlpsc241bkQvUHY1SWtHSWNrZ0ppYWJzQkhJVTBrdUYzc2gxeCswcWl6ZHRzYWltenBaYTYySmFYUmJHL3dwQUx2UEdNWkZrcU1qUkRRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.14.0/Racing-Tools_0.14.0_x64-setup.exe"
+    }
+  }
+}
