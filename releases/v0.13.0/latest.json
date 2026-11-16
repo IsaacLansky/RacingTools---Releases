@@ -1,0 +1,11 @@
+{
+  "version": "0.13.0",
+  "notes": "Sign-in: Racing Tools now asks you to sign in (Discord, Google or email); every account is on the Free plan with full access. Admins get an Accounts page. Updates come through the Racing Tools update service. Includes 0.12.0's Coach overlay, ABS highlight and Ctrl+Shift+B beep toggle.",
+  "pub_date": "2026-11-16T20:52:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aWxDaFg1cS84Y2xJOWZuT0ozeXFST1pmZ21NYlhoUHpCeWZacFV3ZWZDYTdCNkNJMXZURDVDRWt0SldJaEVOZjUyT1BXSXkvQTFqUjJwaE96K3Azd3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODYyMjE5CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMy4wCmJsbnVLbXR0NDZMOHRzcGo5T2VZS1R6TmEwd1hDZ1JINWozbVkwNGdFL1IzMERXY05zbHJ5Q0ZEU0J6UGw3bDQ5bmZ2b1UwQzllWXVPSVdBNUFqZkFBPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.13.0/Racing-Tools_0.13.0_x64-setup.exe"
+    }
+  }
+}
