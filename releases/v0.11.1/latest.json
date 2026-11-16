@@ -1,0 +1,11 @@
+{
+  "version": "0.11.1",
+  "notes": "Racing Tools 0.11.1: first automatic update (no changes besides the version number).",
+  "pub_date": "2026-11-16T01:33:06Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aW5KdVRxRWlGRnczMVNJTkUwR1lDUTM1NnVycDFhNmhCRkZlenRTRzAydmlEWDFBNG0vZEdMN1p1TWRVZ3JnaFRWRUxRekRkRm54L1ZKN0lwNzVlVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzkxMzkwCWZpbGU6UmFjaW5nIFRvb2xzXzAuMTEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4xCjg0cjV5Z3dlbmhQRVVhb2hZRUQ2OHlPUy9WV3JTTUJ0SkYzUG9Ga21pRWdyTzNrRTRYQzU4Vm5sdFh4bGloSnJZa256SG9TQ3pyUjNGVFVwL3RUOURBPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.11.1/Racing-Tools_0.11.1_x64-setup.exe"
+    }
+  }
+}
