@@ -1,0 +1,11 @@
+{
+  "version": "0.13.2",
+  "notes": "Account settings page (name, plan, password, this PC, delete account) from the account menu; Accounts tab removed. Splash screen centred and shows when you're up to date.",
+  "pub_date": "2026-11-16T21:31:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXJZR2hFMUVCM0didHFIUGR1cWVDY2c2SEQ1UjM3YTdrY3lXSkRab2JBQkNLclB2VGhpMFQ0d2IrSnNpNzlpdTFwam5oc2VWZ3VnajVEQmJLSVQ4S2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY0NTk1CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTMuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMy4yCnFnbmcycTREdDlyT1prQzVzeHE2eHRZV0plVEhmV3R6d1FXYVlBWGxybDVyUU9TYk9UZE9OYUlVNGRCbDhUdjVVM0x3NXlXNkJyUGVzdEh2VWdxRERRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.13.2/Racing-Tools_0.13.2_x64-setup.exe"
+    }
+  }
+}
