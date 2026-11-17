@@ -1,0 +1,11 @@
+{
+  "version": "0.15.0",
+  "notes": "Engineer builds a race setup and a quali setup for every car and track you drive: save them once in the garage as RT Race and RT Quali, and Racing Tools puts them in Racing Tools > season > track automatically every time you load that combo. Standings and relative overlays now stay the same size whatever the number of cars or name lengths.",
+  "pub_date": "2026-11-17T04:06:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aWk4YTV4VHFZOFNxWG9aMzN1Q2pMOWR1c1VheFN6b1UvdUNFTW54VXQzTVdzcWRtK2F3UHM2c0RSK2xNd2E4NURZSXZERDZCbmMvREZqTE9vcG52eFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg4Mzg1CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNS4wCjJrNC9vc2I3L2daZVVDbk8wWkx5S1Y3VEFQdVRRTUJ5NGZpTmFTSC83WDdyUCtqSjVBZUVvakFiajJZMTgyWXd3V2ZZaVJJYzk1ZmtRdnFxV2lSaUJRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.15.0/Racing-Tools_0.15.0_x64-setup.exe"
+    }
+  }
+}
