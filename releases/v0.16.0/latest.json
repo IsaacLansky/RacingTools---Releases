@@ -1,0 +1,11 @@
+{
+  "version": "0.16.0",
+  "notes": "Leaderboard: your best laps post on their own with the setup you drove, split by session (Practice, Quali, Race) and Dry/Wet, per car, track and season. When you load a car at a track, the 3 fastest setups of each board are put in your garage under Racing Tools > season > track > Leaderboard. New Leaderboard tab to see every driver's times and install any setup.",
+  "pub_date": "2026-11-17T04:45:18Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXYyZjJpWm90RkNXd2piM09WbW5yZEZGdldWZ0dVN1U4L0dtTTZaazdDbU4rQk1kRHlVSlhXV2VPVWRjK0V3dk5sTW1hcEd3aURiK2lFVHRnQnJscWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODkwNzA5CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTYuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNi4wCjJRTDV4OEJRQWNhcEwvdTZjazZDZWMyQ0VqMDBYdmdtWHlUVnNTWWlqT2tVWFJ5R0FHd01MdnZSUGYzSW9JZUhPbHhEdDdDQXQ2anU4U1lnUzBvMENRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.16.0/Racing-Tools_0.16.0_x64-setup.exe"
+    }
+  }
+}
