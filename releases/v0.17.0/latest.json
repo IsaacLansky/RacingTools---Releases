@@ -1,0 +1,11 @@
+{
+  "version": "0.17.0",
+  "notes": "Coach reference lap: the Bloops and Coach now follow the fastest leaderboard lap for your car and track (else your own fastest lap), or a lap you upload (Garage 61 export, iRacing .ibt or lap file). The Inputs graph draws the reference lap's throttle and brake dashed under yours, and its settings now hold the reference choice and all Bloops settings. Leaderboard laps carry their trace and the track conditions (air/track temperature, wind, sky, rain).",
+  "pub_date": "2026-11-17T06:10:35Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aWpnRE5NaWVvZVJZYlZLeGdTRjNCWldiS3NlakFibnFRMEFlSUdVUVp0ZkFybE1sSGx5OTZMMDl2SW0vcDI0QTVYa0p3dmpxWWtDR1V3dHpCT05ycHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk1ODM0CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNy4wCnBjd3RrTzZpbEJZSEI2UWJwcTBYMUtQODVYbzFLOU96U1NTa1ZhM0I2cmtMOWF6czlDcll5dU0vVWZUbENMOHFscXcxd3phblpCZXhmL3NzeWdsZkRRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.17.0/Racing-Tools_0.17.0_x64-setup.exe"
+    }
+  }
+}
