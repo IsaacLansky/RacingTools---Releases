@@ -1,0 +1,11 @@
+{
+  "version": "0.14.1",
+  "notes": "Smoother video playback: overlay windows with nothing to show now idle instead of refreshing 60 times a second. Coach: new Bloops-style two-tone chirp (default) with 1 s countdown spacing; Sound picker with Pip, Bloop, Drop and the old Beep.",
+  "pub_date": "2026-11-17T02:49:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXFFV3kzUVJBdVZRc3hFS0YvNG9SM01YKzVUblBYNU1sSDNSbXI2TFBFNElMTGZFdEt0RGhIRUZKd2xVQ1J0b3RrT1RidG5BdUtPdWN1eVVDK2FtV2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODgzNzg3CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNC4xCmhPUTZhWjNmMGR0UHk0UXlybDFuYTlLOXNsbTA2QXpMVkFSeTFpcXB4c0liUlJqWmZhRmRPaFRFdys2cDBSSzdyMzc5TnRnLzc0Y1ovVDZVSm5YZEJnPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.14.1/Racing-Tools_0.14.1_x64-setup.exe"
+    }
+  }
+}
