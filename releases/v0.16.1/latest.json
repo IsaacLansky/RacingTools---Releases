@@ -1,0 +1,11 @@
+{
+  "version": "0.16.1",
+  "notes": "Leaderboard filters: type a car or track (with suggestions from iRacing's full lists), tick Dry/Wet and Practice/Quali/Race, results grouped by car, track and session. New 'Your laps' panel shows what has been sent, what's waiting and any error, with a Send my laps now button. Fixed the Leaderboard setups folder path.",
+  "pub_date": "2026-11-17T05:03:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aWhEMU4wcjQxSXlKNXVvbTFkeTA5ek5PRC85czIrczNuVkkxdlMvNVdET1VMUTRsUXFpY3psdGZNVlJ6TldYWGxvb1U1TVc0azhYcWFmeDIxRER1N2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODkxNzk4CWZpbGU6UmFjaW5nIFRvb2xzXzAuMTYuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNi4xCmRhaXBVY1RXeWc1bWJWYkxNQTFnYmhZUjNvN2d5ZmlQSlJKM0hXU3JxUlc3YWVVZFczYW45aWo3SkFVdHVOdldTTWhrdDNjRGg0WEpoNWZuaUIwUEFBPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.16.1/Racing-Tools_0.16.1_x64-setup.exe"
+    }
+  }
+}
