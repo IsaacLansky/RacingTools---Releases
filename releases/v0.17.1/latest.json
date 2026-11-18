@@ -1,0 +1,11 @@
+{
+  "version": "0.17.1",
+  "notes": "Louder Bloops (up to 150% volume, no distortion). Inputs graph: the reference lap is drawn as coloured lines at 70% with the area under them filled, your live throttle and brake as bold full-colour lines on top, and ABS as a clean yellow line over the brake trace. ABS is now recorded with every lap and shown in yellow on the session Brake chart.",
+  "pub_date": "2026-11-18T00:28:22Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZjVIb3p2eHJ3aXBDMmY3NWZzaTloTHg3UkhpMEpjcGhKKzVxTlRibVJwUGt3dElWWW5nMnZ3MWUrWEZPMndTcVJHalJ1RGQ4T0VBb2RXdFR3Q09JS2NpRWR5YURzc1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYxNzAwCWZpbGU6UmFjaW5nIFRvb2xzXzAuMTcuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xNy4xCm9lVU16N0k2OFp0SHJOaTJza2pNUmFNNzNRUm9Lc1FSdTdZSm85Z3hHU05lbkx2NG1EbjhHMW5zZlpYTHpKaUt3RnoyaWJaYys4dlNUeFEwaXdVakNRPT0K",
+      "url": "https://github.com/IsaacLansky/RacingTools---Releases/releases/download/v0.17.1/Racing-Tools_0.17.1_x64-setup.exe"
+    }
+  }
+}
